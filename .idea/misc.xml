@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatter">
+    <option name="defaultSettings" value="true" />
+    <option name="formatter" value="ECLIPSE" />
+    <option name="id" value="1428964895681" />
+    <option name="name" value="record-profile" />
+    <option name="pathToConfigFileJava" value="$PROJECT_DIR$/../../record-conventions.xml" />
+    <option name="selectedJavaProfile" value="Population Health Conventions" />
+  </component>
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/LinkedList/pom.xml" />
+        <option value="$PROJECT_DIR$/General/pom.xml" />
+        <option value="$PROJECT_DIR$/DynamicProgramming/pom.xml" />
+        <option value="$PROJECT_DIR$/ArraysAndStrings/pom.xml" />
+        <option value="$PROJECT_DIR$/Trees/pom.xml" />
+        <option value="$PROJECT_DIR$/Interviews/pom.xml" />
+        <option value="$PROJECT_DIR$/HeapPriorityQueue/pom.xml" />
+        <option value="$PROJECT_DIR$/Facebook/pom.xml" />
+        <option value="$PROJECT_DIR$/DesignPatterns/pom.xml" />
+        <option value="$PROJECT_DIR$/PriorityQueueHeap/pom.xml" />
+        <option value="$PROJECT_DIR$/WebCrawling/pom.xml" />
+        <option value="$PROJECT_DIR$/Matrix/pom.xml" />
+        <option value="$PROJECT_DIR$/GraphAlgorithm/pom.xml" />
+        <option value="$PROJECT_DIR$/Amazon/pom.xml" />
+        <option value="$PROJECT_DIR$/ConcurrentProgramming/pom.xml" />
+        <option value="$PROJECT_DIR$/Linkedin/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

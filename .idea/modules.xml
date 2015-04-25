@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Amazon/Amazon.iml" filepath="$PROJECT_DIR$/Amazon/Amazon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysAndStrings/ArraysAndStrings.iml" filepath="$PROJECT_DIR$/ArraysAndStrings/ArraysAndStrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConcurrentProgramming/ConcurrentProgramming.iml" filepath="$PROJECT_DIR$/ConcurrentProgramming/ConcurrentProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructuresAndAlgorithms.iml" filepath="$PROJECT_DIR$/DataStructuresAndAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/DynamicProgramming.iml" filepath="$PROJECT_DIR$/DynamicProgramming/DynamicProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facebook/Facebook.iml" filepath="$PROJECT_DIR$/Facebook/Facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/General/General.iml" filepath="$PROJECT_DIR$/General/General.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphAlgorithm/GraphAlgorithm.iml" filepath="$PROJECT_DIR$/GraphAlgorithm/GraphAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HeapPriorityQueue/HeapPriorityQueue.iml" filepath="$PROJECT_DIR$/HeapPriorityQueue/HeapPriorityQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interviews/Interviews.iml" filepath="$PROJECT_DIR$/Interviews/Interviews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linkedin/Linkedin.iml" filepath="$PROJECT_DIR$/Linkedin/Linkedin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matrix/Matrix.iml" filepath="$PROJECT_DIR$/Matrix/Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PriorityQueueHeap/PriorityQueueHeap.iml" filepath="$PROJECT_DIR$/PriorityQueueHeap/PriorityQueueHeap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trees/Trees.iml" filepath="$PROJECT_DIR$/Trees/Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebCrawling/WebCrawling.iml" filepath="$PROJECT_DIR$/WebCrawling/WebCrawling.iml" />
+    </modules>
+  </component>
+</project>
