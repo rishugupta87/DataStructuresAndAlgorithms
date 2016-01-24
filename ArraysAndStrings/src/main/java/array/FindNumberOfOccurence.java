@@ -26,7 +26,7 @@ public class FindNumberOfOccurence {
         }
         else if ( x > a[mid])
             return findFirstOccurence(a, x, mid + 1, high);
-        else // last possibility:  x < a[mid]
+        else // last possibility:  x <= a[mid]
             return findFirstOccurence(a, x, low, mid - 1);
     }
 

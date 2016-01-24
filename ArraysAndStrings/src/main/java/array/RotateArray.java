@@ -62,27 +62,54 @@ public class RotateArray {
         }
     }
 
-    public static int findElement(final int[] array, int low, int high, int element) {
-        int mid = (low + high)/2;
+    public int search(int[] nums, int target) {
+
+        if(nums == null) {
+            return -1;
+        }
+
+        if(nums.length == 1 && nums[0] != target) {
+            return -1;
+        }
+
+        return findElement(nums, 0 , nums.length - 1, target);
+
+    }
+
+    public int findElement(final int[] array, int low, int high, int element) {
+
+        if(low > high) {
+            return -1;
+        }
+
+        int mid = low + (high - low)/2;
 
         if(array[mid] == element) {
             return mid;
         }
-        if(array[mid] < array[high]) { //the right half is sorted
-            if(element > array[mid] && element < array[high]) {
-                low = mid + 1;
-            } else {
-                high = mid - 1;
-            }
+
+        if(low == high && array[mid] != element) {
+            return -1;
         }
 
-        if(array[mid] > array[low]) { // the left half is sorted
+        if(array[mid] >= array[low]) { // the left half is sorted
             if(element >= array[low] && element < array[mid]) {
                 high = mid - 1;
             } else {
                 low = mid + 1;
             }
-        }
+        } else { //the right half is sorted
+                if(element > array[mid] && element <= array[high]) {
+                    low = mid + 1;
+                } else {
+                    high = mid - 1;
+                }
+            }
         return findElement(array, low, high, element);
+    }
+
+    public static void main(String args[]) {
+        int[] nums = {1,3};
+        System.out.println(new RotateArray().search(nums, 2));
     }
 }

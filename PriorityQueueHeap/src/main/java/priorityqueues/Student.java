@@ -20,19 +20,19 @@ public class Student {
         priorityMap.put("F456", 10);
     }
 
-    public void orderProducts(String[] productCodes) {
-
-        productCodes.le
-
-        Queue<String> queue = new PriorityQueue<String>(10, new Comparator<String>() {
-            public int compare(String product1, String product2) {
-                return priorityMap.get("").compareTo(priorityMap.get(""));
-            }
-        });
-
-        for(String productCode : productCodes) {
-            queue.add(productCode);
-        }
-
-    }
+//    public void orderProducts(String[] productCodes) {
+//
+//        productCodes.le
+//
+//        Queue<String> queue = new PriorityQueue<String>(10, new Comparator<String>() {
+//            public int compare(String product1, String product2) {
+//                return priorityMap.get("").compareTo(priorityMap.get(""));
+//            }
+//        });
+//
+//        for(String productCode : productCodes) {
+//            queue.add(productCode);
+//        }
+//
+//    }
 }

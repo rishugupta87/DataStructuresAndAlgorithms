@@ -21,8 +21,8 @@ public class TriangleSegments {
     }
 
     /**
-     * Three segments of lengths A, B, C form a triangle iff * * A + B &gt; C * B + C &gt; A * A + C &gt;
-     * B * * e.g. * 6, 4, 5 can form a triangle * 10, 2, 7 can't * * Given a list of segments lengths algorithm
+     * Three segments of lengths A, B, C form a triangle iff * * A + B > C , B + C > A , A + C > B * *
+     * e.g. 6, 4, 5 can form a triangle * 10, 2, 7 can't * * Given a list of segments lengths algorithm
      * should find at least one triplet of segments thatform a triangle (if any). * * Method should return an array of either:
      * * - 3 elements: segments that form a triangle (i.e. satisfy the condition above) * - empty array if there are no
      * such segments */
@@ -33,20 +33,23 @@ public class TriangleSegments {
          }
 
          Set<Segment> segmentSet = new HashSet<Segment>();
-
          Arrays.sort(segments);
+
          int res = 0;
          for (int end = segments.length - 1; end > 1; end--) {
              int start = 0, mid = end - 1;
-             while (start < mid) if (segments[start] + segments[mid] <= segments[end]) {
-                 start++;
-             } else {
-                 res += mid - start;//key point
-                 segmentSet.add(new Segment(segments[start], segments[mid], segments[end]));
-                 for (int i = start + 1; i < mid; i++) {
-                     segmentSet.add(new Segment(segments[i], segments[mid], segments[end]));
+
+             while (start < mid) {
+                 if (segments[start] + segments[mid] <= segments[end]) {
+                     start++;
+                 } else {
+                     res += mid - start; //key point
+                     segmentSet.add(new Segment(segments[start], segments[mid], segments[end]));
+                     for (int i = start + 1; i < mid; i++) {
+                         segmentSet.add(new Segment(segments[i], segments[mid], segments[end]));
+                     }
+                     mid--;
                  }
-                 mid--;
              }
          }
 
@@ -56,6 +59,27 @@ public class TriangleSegments {
          }
 
          return res;
+    }
+
+    public int triangleCount(int S[]) {
+        if (S == null || S.length <= 2) {
+            return 0;
+        }
+        Arrays.sort(S);
+        int res = 0;
+        for (int end = S.length - 1; end > 1; end--) {
+            int start = 0, mid = end - 1;
+
+            while (start < mid) {
+                if (S[start] + S[mid] <= S[end]) {
+                    start++;
+                } else {
+                    res += mid - start;//key point
+                    mid--;
+                }
+            }
+        }
+        return res;
     }
 
     public static void main(String args[]) {

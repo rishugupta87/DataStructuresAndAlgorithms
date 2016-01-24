@@ -3,23 +3,87 @@
   <component name="AnalysisUIOptions">
     <option name="SCOPE_TYPE" value="3" />
   </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/LeetCode/src/main/java/ReversePairs.java" description="    public ListNode swapPairs(ListNode head) {&#10;&#10;  ..." line="5" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e3f135b5-b970-4259-8202-98bd8a536788" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/General/target/test-classes/BinarySearchTest.class" afterPath="$PROJECT_DIR$/General/target/test-classes/BinarySearchTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Trees/target/classes/binarytree/BuildTree.class" afterPath="$PROJECT_DIR$/Trees/target/classes/binarytree/BuildTree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/target/classes/array/FindNumberOfOccurence.class" afterPath="$PROJECT_DIR$/ArraysAndStrings/target/classes/array/FindNumberOfOccurence.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/target/test-classes/array/FindNumberOfOccurenceTest.class" afterPath="$PROJECT_DIR$/ArraysAndStrings/target/test-classes/array/FindNumberOfOccurenceTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/target/classes/array/CalculatePower.class" afterPath="$PROJECT_DIR$/ArraysAndStrings/target/classes/array/CalculatePower.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/target/classes/array/DepthSum.class" afterPath="$PROJECT_DIR$/ArraysAndStrings/target/classes/array/DepthSum.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/target/classes/array/FirstRepeatedElement.class" afterPath="$PROJECT_DIR$/ArraysAndStrings/target/classes/array/FirstRepeatedElement.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/target/classes/array/IntervalComparator.class" afterPath="$PROJECT_DIR$/ArraysAndStrings/target/classes/array/IntervalComparator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/target/classes/array/MergeThreeSortedArrays$HeapNode.class" afterPath="$PROJECT_DIR$/ArraysAndStrings/target/classes/array/MergeThreeSortedArrays$HeapNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/target/classes/array/MergeThreeSortedArrays.class" afterPath="$PROJECT_DIR$/ArraysAndStrings/target/classes/array/MergeThreeSortedArrays.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/target/classes/array/OverlappingIntervals.class" afterPath="$PROJECT_DIR$/ArraysAndStrings/target/classes/array/OverlappingIntervals.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/target/classes/array/PostfixReversePolish.class" afterPath="$PROJECT_DIR$/ArraysAndStrings/target/classes/array/PostfixReversePolish.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/target/classes/array/RotateArray.class" afterPath="$PROJECT_DIR$/ArraysAndStrings/target/classes/array/RotateArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/target/classes/array/TriangleSegments.class" afterPath="$PROJECT_DIR$/ArraysAndStrings/target/classes/array/TriangleSegments.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/target/classes/array/TwoSumProblem.class" afterPath="$PROJECT_DIR$/ArraysAndStrings/target/classes/array/TwoSumProblem.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/target/classes/strings/IsStringNumber.class" afterPath="$PROJECT_DIR$/ArraysAndStrings/target/classes/strings/IsStringNumber.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/target/classes/strings/IsomorphicStrings.class" afterPath="$PROJECT_DIR$/ArraysAndStrings/target/classes/strings/IsomorphicStrings.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/target/classes/strings/WordDistance.class" afterPath="$PROJECT_DIR$/ArraysAndStrings/target/classes/strings/WordDistance.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/target/classes/strings/WordLadder$Word.class" afterPath="$PROJECT_DIR$/ArraysAndStrings/target/classes/strings/WordLadder$Word.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/target/classes/strings/WordLadder.class" afterPath="$PROJECT_DIR$/ArraysAndStrings/target/classes/strings/WordLadder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/General/src/test/java/BinarySearchTest.java" afterPath="$PROJECT_DIR$/General/src/test/java/BinarySearchTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/FindNumberOfOccurence.java" afterPath="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/FindNumberOfOccurence.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/src/test/java/array/FindNumberOfOccurenceTest.java" afterPath="$PROJECT_DIR$/ArraysAndStrings/src/test/java/array/FindNumberOfOccurenceTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PriorityQueueHeap/src/main/java/priorityqueues/Student.java" afterPath="$PROJECT_DIR$/PriorityQueueHeap/src/main/java/priorityqueues/Student.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/src/main/java/strings/WordLadder.java" afterPath="$PROJECT_DIR$/ArraysAndStrings/src/main/java/strings/WordLadder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/target/test-classes/array/CalculatePowerTest.class" afterPath="$PROJECT_DIR$/ArraysAndStrings/target/test-classes/array/CalculatePowerTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/target/test-classes/array/OverlappingIntervalsTest.class" afterPath="$PROJECT_DIR$/ArraysAndStrings/target/test-classes/array/OverlappingIntervalsTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/target/test-classes/array/RotateArrayTest.class" afterPath="$PROJECT_DIR$/ArraysAndStrings/target/test-classes/array/RotateArrayTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DynamicProgramming/target/classes/CoinChange.class" afterPath="$PROJECT_DIR$/DynamicProgramming/target/classes/CoinChange.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DynamicProgramming/target/classes/MinJumps.class" afterPath="$PROJECT_DIR$/DynamicProgramming/target/classes/MinJumps.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/General/target/classes/LongestSubstring.class" afterPath="$PROJECT_DIR$/General/target/classes/LongestSubstring.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/General/target/classes/microsoft/CelebrityIdentifier$1.class" afterPath="$PROJECT_DIR$/General/target/classes/microsoft/CelebrityIdentifier$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/General/target/classes/microsoft/CelebrityIdentifier$Member.class" afterPath="$PROJECT_DIR$/General/target/classes/microsoft/CelebrityIdentifier$Member.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/General/target/classes/microsoft/CelebrityIdentifier.class" afterPath="$PROJECT_DIR$/General/target/classes/microsoft/CelebrityIdentifier.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/General/target/classes/microsoft/Microsoft.class" afterPath="$PROJECT_DIR$/General/target/classes/microsoft/Microsoft.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/General/target/classes/microsoft/Person.class" afterPath="$PROJECT_DIR$/General/target/classes/microsoft/Person.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/General/target/classes/util/impl/HashMap$Entry.class" afterPath="$PROJECT_DIR$/General/target/classes/util/impl/HashMap$Entry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/General/target/classes/util/impl/HashMap.class" afterPath="$PROJECT_DIR$/General/target/classes/util/impl/HashMap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/General/target/test-classes/MicrosoftTest.class" afterPath="$PROJECT_DIR$/General/target/test-classes/MicrosoftTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LinkedList/target/classes/SwapNodes.class" afterPath="$PROJECT_DIR$/LinkedList/target/classes/SwapNodes.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LinkedList/target/test-classes/LinkedListTest.class" afterPath="$PROJECT_DIR$/LinkedList/target/test-classes/LinkedListTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PriorityQueueHeap/target/classes/priorityqueues/Student.class" afterPath="$PROJECT_DIR$/PriorityQueueHeap/target/classes/priorityqueues/Student.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Trees/target/classes/binarytree/HasPathSum.class" afterPath="$PROJECT_DIR$/Trees/target/classes/binarytree/HasPathSum.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Trees/target/classes/binarytree/LevelWithMaxSum.class" afterPath="$PROJECT_DIR$/Trees/target/classes/binarytree/LevelWithMaxSum.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Trees/target/classes/binarytree/common/BinaryTreePrinter.class" afterPath="$PROJECT_DIR$/Trees/target/classes/binarytree/common/BinaryTreePrinter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Trees/target/test-classes/binarytree/BinaryTreeViewsTest.class" afterPath="$PROJECT_DIR$/Trees/target/test-classes/binarytree/BinaryTreeViewsTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/MANIFEST.MF" afterPath="$PROJECT_DIR$/Amazon/target/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/CalculatePower.java" afterPath="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/CalculatePower.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/DepthSum.java" afterPath="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/DepthSum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/FindNumberOfOccurence.java" afterPath="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/FindNumberOfOccurence.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/RotateArray.java" afterPath="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/RotateArray.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/TriangleSegments.java" afterPath="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/TriangleSegments.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/TwoSumProblem.java" afterPath="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/TwoSumProblem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/src/main/java/strings/IsomorphicStrings.java" afterPath="$PROJECT_DIR$/ArraysAndStrings/src/main/java/strings/IsomorphicStrings.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/src/test/java/array/CalculatePowerTest.java" afterPath="$PROJECT_DIR$/ArraysAndStrings/src/test/java/array/CalculatePowerTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/src/test/java/array/RotateArrayTest.java" afterPath="$PROJECT_DIR$/ArraysAndStrings/src/test/java/array/RotateArrayTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArraysAndStrings/target/MANIFEST.MF" afterPath="$PROJECT_DIR$/ArraysAndStrings/target/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConcurrentProgramming/target/MANIFEST.MF" afterPath="$PROJECT_DIR$/ConcurrentProgramming/target/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPatterns/target/MANIFEST.MF" afterPath="$PROJECT_DIR$/DesignPatterns/target/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DynamicProgramming/target/MANIFEST.MF" afterPath="$PROJECT_DIR$/DynamicProgramming/target/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/Facebook.iml" afterPath="$PROJECT_DIR$/Facebook/Facebook.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Facebook/target/MANIFEST.MF" afterPath="$PROJECT_DIR$/Facebook/target/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/General/General.iml" afterPath="$PROJECT_DIR$/General/General.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/General/src/main/java/LongestSubstring.java" afterPath="$PROJECT_DIR$/General/src/main/java/LongestSubstring.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/General/target/MANIFEST.MF" afterPath="$PROJECT_DIR$/General/target/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GraphAlgorithm/GraphAlgorithm.iml" afterPath="$PROJECT_DIR$/GraphAlgorithm/GraphAlgorithm.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GraphAlgorithm/target/MANIFEST.MF" afterPath="$PROJECT_DIR$/GraphAlgorithm/target/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HeapPriorityQueue/target/MANIFEST.MF" afterPath="$PROJECT_DIR$/HeapPriorityQueue/target/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Interviews/target/MANIFEST.MF" afterPath="$PROJECT_DIR$/Interviews/target/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LinkedList/src/main/java/MergeKSortedLists.java" afterPath="$PROJECT_DIR$/LinkedList/src/main/java/MergeKSortedLists.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LinkedList/src/test/java/LinkedListTest.java" afterPath="$PROJECT_DIR$/LinkedList/src/test/java/LinkedListTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LinkedList/target/MANIFEST.MF" afterPath="$PROJECT_DIR$/LinkedList/target/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Linkedin/target/MANIFEST.MF" afterPath="$PROJECT_DIR$/Linkedin/target/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Matrix/target/MANIFEST.MF" afterPath="$PROJECT_DIR$/Matrix/target/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PriorityQueueHeap/src/main/java/priorityqueues/Student.java" afterPath="$PROJECT_DIR$/PriorityQueueHeap/src/main/java/priorityqueues/Student.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PriorityQueueHeap/target/MANIFEST.MF" afterPath="$PROJECT_DIR$/PriorityQueueHeap/target/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Trees/src/main/java/binarytree/BuildTree.java" afterPath="$PROJECT_DIR$/Trees/src/main/java/binarytree/BuildTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Trees/src/main/java/binarytree/HasPathSum.java" afterPath="$PROJECT_DIR$/Trees/src/main/java/binarytree/HasPathSum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Trees/src/main/java/binarytree/ZigZagTraversal.java" afterPath="$PROJECT_DIR$/Trees/src/main/java/binarytree/ZigZagTraversal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Trees/target/MANIFEST.MF" afterPath="$PROJECT_DIR$/Trees/target/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebCrawling/target/MANIFEST.MF" afterPath="$PROJECT_DIR$/WebCrawling/target/MANIFEST.MF" />
     </list>
     <ignored path="DataStructuresAndAlgorithms.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,6 +104,8 @@
     <ignored path="$PROJECT_DIR$/Amazon/target/" />
     <ignored path="$PROJECT_DIR$/ConcurrentProgramming/target/" />
     <ignored path="$PROJECT_DIR$/Linkedin/target/" />
+    <ignored path="$PROJECT_DIR$/Json/target/" />
+    <ignored path="$PROJECT_DIR$/LeetCode/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +118,9 @@
     <SUITE FILE_PATH="coverage/DataStructuresAndAlgorithms$BinaryTreeTest_testCreateBinaryTree.coverage" NAME="BinaryTreeTest.testCreateBinaryTree Coverage Results" MODIFIED="1434948160967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>binarytree.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/DataStructuresAndAlgorithms$CalculatePowerTest_test3.coverage" NAME="CalculatePowerTest.test3 Coverage Results" MODIFIED="1450054316482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>array.*</FILTER>
+    </SUITE>
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -61,49 +130,35 @@
     <favorites_list name="DataStructuresAndAlgorithms" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="DepthSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/DepthSum.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BottomViewBinaryTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/BottomViewBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TopViewBinaryTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/TopViewBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RightSideView.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/RightSideView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7905983">
+              <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
               <folding>
-                <marker date="1447214263000" expanded="true" signature="196:475" placeholder="{...}" />
-                <marker date="1447214263000" expanded="true" signature="560:1247" placeholder="{...}" />
-                <marker date="1447214263000" expanded="true" signature="1296:1951" placeholder="{...}" />
-                <marker date="1447214263000" expanded="false" signature="1423:1438" placeholder="&lt;~&gt;" />
-                <marker date="1447214263000" expanded="true" signature="1447:1943" placeholder="//..." />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Factors.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/Factors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8491379">
-              <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NestedInteger.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/NestedInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PostfixReversePolish.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/PostfixReversePolish.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="48" column="30" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -132,57 +187,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ConcurrentProgramming/src/main/java/threads/deadlock/App.java" />
-        <option value="$PROJECT_DIR$/ConcurrentProgramming/src/main/java/threads/deadlock/Runner.java" />
-        <option value="$PROJECT_DIR$/ConcurrentProgramming/src/main/java/tutorials/semaphores/Connection.java" />
-        <option value="$PROJECT_DIR$/ConcurrentProgramming/src/main/java/tutorials/semaphores/App.java" />
-        <option value="$PROJECT_DIR$/ConcurrentProgramming/src/main/java/concurrentcollections/ConcurrentCollection.java" />
-        <option value="$PROJECT_DIR$/ConcurrentProgramming/src/main/java/concurrentcollections/ConcurrentHashMapUsage.java" />
-        <option value="$PROJECT_DIR$/ConcurrentProgramming/src/main/java/concurrentcollections/ConcurrentHashMapUsage2.java" />
-        <option value="$PROJECT_DIR$/General/src/main/java/microsoft/FindBugs.java" />
-        <option value="$PROJECT_DIR$/General/src/main/java/microsoft/CelebrityIdentifier.java" />
-        <option value="$PROJECT_DIR$/General/src/main/java/microsoft/CelebrityProblem.java" />
-        <option value="$PROJECT_DIR$/General/src/main/java/microsoft/Person.java" />
-        <option value="$PROJECT_DIR$/Linkedin/pom.xml" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/main/java/strings/WordLadder.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/FindNumberOfOccurence.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/test/java/array/FindNumberOfOccurenceTest.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/TwoSumProblem.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/test/java/array/IsValidParenthesisTest.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/IsValidParenthesis.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/test/java/array/CalculatePower.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/test/java/array/CalculatePowerTest.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/test/java/strings/WordDistanceTest.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/main/java/strings/WordDistance.java" />
         <option value="$PROJECT_DIR$/ArraysAndStrings/src/main/java/strings/IsStringNumber.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/test/java/strings/IsStringNumberTest.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/MergeTwoSortedArrays.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/test/java/array/MergeTwoSortedArraysTest.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/main/java/strings/IsomorphicStrings.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/test/java/strings/IsIsomorphicStringsTest.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/test/java/array/IntervalCoverageTest.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/IntervalCoverage.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/ArrayPermutations.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/main/java/strings/StringPermutations.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/test/java/strings/StringPermutationsTest.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/FirstElementGreaterThanTarget.java" />
-        <option value="$PROJECT_DIR$/Trees/src/main/java/binarytree/PrintLevelOrderTraversal.java" />
-        <option value="$PROJECT_DIR$/Trees/src/test/java/binarytree/PrintLevelOrderTraversalTest.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/TriangleSegments.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/FlowerBedProblem.java" />
-        <option value="$PROJECT_DIR$/LinkedList/src/main/java/IntersectionTwoLists.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/ProductArray.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/PostfixReversePolish.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/Interval.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/OverlappingIntervals.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/test/java/array/OverlappingIntervalsTest.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/NestedInteger.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/CalculatePower.java" />
-        <option value="$PROJECT_DIR$/ConcurrentProgramming/src/main/java/tutorials/createthread/HelloRunnable.java" />
-        <option value="$PROJECT_DIR$/General/src/main/java/microsoft/Microsoft.java" />
-        <option value="$PROJECT_DIR$/PriorityQueueHeap/src/main/java/priorityqueues/Student.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/DepthSum.java" />
-        <option value="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/Factors.java" />
+        <option value="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/TwoSumProblem.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/TwoSum.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/ListNode.java" />
+        <option value="$PROJECT_DIR$/General/src/main/java/LongestSubstring.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/LongestUniqueSubstring.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/ZigZagConversion.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/StringToInteger.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/ReverseInteger.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/IntegerPalindrome.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/IntegerToRoman.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/RomanInteger.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/AddTwoLinkedList.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/test/java/General.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/LongestCommonPrefix.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/LetterCombination.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/LetterCombinationPhoneNumber.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/RemoveNthNodeFromEnd.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/MergeTwoListsLeet.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/GenerateNParenthesis.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/RemoveDuplicatesSortedArray.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/RemoveElement.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/DivideTwoIntegers.java" />
+        <option value="$PROJECT_DIR$/LinkedList/src/test/java/LinkedListTest.java" />
+        <option value="$PROJECT_DIR$/LinkedList/src/main/java/MergeKSortedLists.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/SwapPairs.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/ReversePairs.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/ReverseKGroup.java" />
+        <option value="$PROJECT_DIR$/ArraysAndStrings/src/test/java/array/RotateArrayTest.java" />
+        <option value="$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/RotateArray.java" />
+        <option value="$PROJECT_DIR$/Trees/src/main/java/binarytree/HasPathSum.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/TreeNode.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/PathSum1.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/PathSum2.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/KthElementBST.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/ValidateBST.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/ZigZagTraversalLeet.java" />
+        <option value="$PROJECT_DIR$/Trees/src/main/java/binarytree/ZigZagTraversal.java" />
+        <option value="$PROJECT_DIR$/Trees/src/main/java/binarytree/FlattenBinaryTree.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/FlattenBinaryTree.java" />
+        <option value="$PROJECT_DIR$/Trees/src/main/java/binarytree/BuildTree.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/ConstructBinaryTreeFromInorderPostorder.java" />
+        <option value="$PROJECT_DIR$/Trees/src/main/java/binarytree/MinimumDepth.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/BinaryTreePrinter.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/MinimumDepth.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/BinarySearchTreeIterator.java" />
+        <option value="$PROJECT_DIR$/LeetCode/pom.xml" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/VerticalOrderTraversal.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/BottomViewBinaryTree.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/TopViewBinaryTree.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/main/java/RightSideView.java" />
       </list>
     </option>
   </component>
@@ -198,13 +253,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="NamedScopeManager">
-    <order />
-  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="821" />
+    <option name="height" value="825" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -312,10 +364,11 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -344,7 +397,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PriorityQueueHeap" />
+              <option name="myItemId" value="LeetCode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -358,21 +411,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ArraysAndStrings" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DataStructuresAndAlgorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DataStructuresAndAlgorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ArraysAndStrings" />
+              <option name="myItemId" value="LeetCode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -390,7 +429,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ArraysAndStrings" />
+              <option name="myItemId" value="LeetCode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -412,7 +451,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ArraysAndStrings" />
+              <option name="myItemId" value="LeetCode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -425,46 +464,17 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DataStructuresAndAlgorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DataStructuresAndAlgorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ArraysAndStrings" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="array" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -472,12 +482,14 @@
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="com.intellij.ide.scratch.NewScratchFileAction" value="JAVA" />
-    <property name="FullScreen" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataStructureAndAlgorithmsMadeEasyInJava" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Json/src/main/resources" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="array" />
       <recent name="binaryheap" />
@@ -486,96 +498,15 @@
       <recent name="BST" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Factors">
-    <configuration default="false" name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="tutorials.synchronization.tutorial1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="tutorials.synchronization.tutorial1.Demo2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ConcurrentProgramming" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="tutorials.synchronization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="tutorials.synchronization.App" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ConcurrentProgramming" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="tutorials.semaphores.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="tutorials.semaphores.App" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ConcurrentProgramming" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="PlayTest.testObjects" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="PriorityQueueHeap" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PlayTest" />
-      <option name="METHOD_NAME" value="testObjects" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="Factors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.VerticalOrderTraversal">
+    <configuration default="false" name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="array.Factors" />
+      <option name="MAIN_CLASS_NAME" value="array.RotateArray" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -585,6 +516,71 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="ArraysAndStrings" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="HasPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="binarytree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="binarytree.HasPathSum" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Trees" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="PathSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="PathSum2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MinimumDepth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="MinimumDepth" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="VerticalOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="VerticalOrderTraversal" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
       <envs />
       <method />
     </configuration>
@@ -612,6 +608,15 @@
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
       <method />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -633,6 +638,15 @@
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -694,8 +708,58 @@
       <patterns />
       <method />
     </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Amazon" />
       <envs />
       <method />
     </configuration>
@@ -709,13 +773,12 @@
     </configuration>
     <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
       <module name="" />
       <setting name="path" value="" />
       <setting name="package" value="" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="workingDirectory" value="" />
       <setting name="searchForTest" value="Across module dependencies" />
       <setting name="testName" value="" />
       <setting name="testKind" value="Class" />
@@ -725,13 +788,12 @@
     </configuration>
     <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
       <module name="" />
       <setting name="path" value="" />
       <setting name="package" value="" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="workingDirectory" value="" />
       <setting name="searchForTest" value="Across module dependencies" />
       <setting name="testName" value="" />
       <setting name="testKind" value="Class" />
@@ -767,15 +829,42 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
     <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
       <module name="" />
       <setting name="path" value="" />
       <setting name="package" value="" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="workingDirectory" value="" />
       <setting name="searchForTest" value="Across module dependencies" />
       <setting name="testName" value="" />
       <setting name="testKind" value="Class" />
@@ -784,19 +873,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Demo2" />
-      <item index="1" class="java.lang.String" itemvalue="Application.App" />
-      <item index="2" class="java.lang.String" itemvalue="Application.App (1)" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.PlayTest.testObjects" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Factors" />
+      <item index="0" class="java.lang.String" itemvalue="Application.RotateArray" />
+      <item index="1" class="java.lang.String" itemvalue="Application.HasPathSum" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PathSum2" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MinimumDepth" />
+      <item index="4" class="java.lang.String" itemvalue="Application.VerticalOrderTraversal" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Factors" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.PlayTest.testObjects" />
-        <item index="2" class="java.lang.String" itemvalue="Application.App (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.App" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Demo2" />
+        <item index="0" class="java.lang.String" itemvalue="Application.VerticalOrderTraversal" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MinimumDepth" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PathSum2" />
+        <item index="3" class="java.lang.String" itemvalue="Application.HasPathSum" />
+        <item index="4" class="java.lang.String" itemvalue="Application.RotateArray" />
       </list>
     </recent_temporary>
   </component>
@@ -818,6 +907,29 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="CalculatePowerTest - 2015.12.25 at 15h 42m 19s.xml">
+      <configuration name="CalculatePowerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatePowerTest - 2015.12.25 at 16h 34m 15s.xml">
+      <configuration name="CalculatePowerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatePowerTest - 2015.12.25 at 16h 34m 54s.xml">
+      <configuration name="CalculatePowerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CoinChangeTest - 2016.01.04 at 01h 15m 10s.xml">
+      <configuration name="CoinChangeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="General_test - 2016.01.05 at 22h 09m 20s.xml">
+      <configuration name="General.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="General_test_Indexof - 2016.01.08 at 23h 44m 56s.xml">
+      <configuration name="General.test_Indexof" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListTest_testReverse_recursive - 2016.01.10 at 17h 28m 16s.xml">
+      <configuration name="LinkedListTest.testReverse_recursive" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -828,65 +940,67 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="821" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="825" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4951049" sideWeight="0.49546668" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41210374" sideWeight="0.5114449" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282123" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867134" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31629834" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16165951" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5138122" sideWeight="0.48855507" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" x="510" y="287" width="495" height="293" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960895" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41210374" sideWeight="0.5114449" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32737276" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27825466" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.48863637" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282123" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42365888" sideWeight="0.49546668" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29986244" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" x="510" y="287" width="495" height="293" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2696011" sideWeight="0.48855507" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5113636" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="Documentation" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" x="510" y="287" width="495" height="293" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41210374" sideWeight="0.5114449" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867134" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1619303" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.51805556" sideWeight="0.48855507" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960895" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32916668" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4951049" sideWeight="0.49546668" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282123" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31748253" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282123" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41210374" sideWeight="0.5114449" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.48863637" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42365888" sideWeight="0.49546668" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29986244" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" x="510" y="287" width="495" height="293" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32737276" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2696011" sideWeight="0.48855507" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5113636" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27825466" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1058,12 +1172,6 @@
           <option name="timeStamp" value="156" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Trees/src/main/java/binarytree/HasPathSum.java</url>
-          <line>11</line>
-          <properties />
-          <option name="timeStamp" value="157" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/MergeThreeSortedArrays.java</url>
           <line>91</line>
           <properties />
@@ -1074,12 +1182,6 @@
           <line>92</line>
           <properties />
           <option name="timeStamp" value="167" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LinkedList/src/main/java/LinkedList.java</url>
-          <line>99</line>
-          <properties />
-          <option name="timeStamp" value="173" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/LinkedList/src/test/java/LoopProblemTest.java</url>
@@ -1107,13 +1209,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Trees/src/main/java/binarytree/BuildTree.java</url>
-          <line>23</line>
+          <line>25</line>
           <properties />
           <option name="timeStamp" value="188" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Trees/src/main/java/binarytree/BuildTree.java</url>
-          <line>39</line>
+          <line>41</line>
           <properties />
           <option name="timeStamp" value="189" />
         </line-breakpoint>
@@ -1257,13 +1359,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/CalculatePower.java</url>
-          <line>40</line>
+          <line>39</line>
           <properties />
           <option name="timeStamp" value="288" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/CalculatePower.java</url>
-          <line>52</line>
+          <line>51</line>
           <properties />
           <option name="timeStamp" value="289" />
         </line-breakpoint>
@@ -1280,37 +1382,148 @@
           <option name="timeStamp" value="292" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/ArraysAndStrings/src/main/java/strings/StringPermutations.java</url>
-          <line>17</line>
+          <url>file://$PROJECT_DIR$/Json/src/main/java/jackson/JacksonTester.java</url>
+          <line>9</line>
           <properties />
-          <option name="timeStamp" value="294" />
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PriorityQueueHeap/src/main/java/priorityqueues/PQ.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PriorityQueueHeap/src/main/java/priorityqueues/PQ.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="300" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/ArrayPermutations.java</url>
           <line>15</line>
           <properties />
-          <option name="timeStamp" value="295" />
+          <option name="timeStamp" value="301" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/ArrayPermutations.java</url>
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/LongestUniqueSubstring.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="302" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/LongestUniqueSubstring.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="303" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/StringToInteger.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="328" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/StringToInteger.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="329" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/StringToInteger.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="330" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/StringToInteger.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="331" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/GenerateNParenthesis.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="335" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/GenerateNParenthesis.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="336" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/GenerateNParenthesis.java</url>
           <line>20</line>
           <properties />
-          <option name="timeStamp" value="296" />
+          <option name="timeStamp" value="337" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/ArrayPermutations.java</url>
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/GenerateNParenthesis.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="338" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/DivideTwoIntegers.java</url>
           <line>16</line>
           <properties />
-          <option name="timeStamp" value="297" />
+          <option name="timeStamp" value="343" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/DivideTwoIntegers.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="346" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/DivideTwoIntegers.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="347" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/DivideTwoIntegers.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="348" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LinkedList/src/main/java/LinkedList.java</url>
+          <line>99</line>
+          <properties />
+          <option name="timeStamp" value="349" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/RotateArray.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="350" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/PathSum2.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="352" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/PathSum2.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
           <url>file://$PROJECT_DIR$/Trees/src/main/java/BST/BinarySearchTree.java</url>
           <line>154</line>
           <properties class="BST.BinarySearchTree" method="findMax" />
           <option name="timeStamp" value="280" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="298" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="361" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1319,411 +1532,410 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/main/java/strings/WordLadder.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/test/java/General.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20319304">
-          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.8648111">
+          <caret line="29" column="48" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/FindNumberOfOccurence.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/LongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49304175">
+          <caret line="59" column="31" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/AddTwoLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.916501">
+          <caret line="90" column="35" selection-start-line="90" selection-start-column="35" selection-end-line="90" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19284295">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/LetterCombinationPhoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1502146">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/RemoveNthNodeFromEnd.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="31" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="31" />
+          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/MergeTwoSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48497853">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/IsValidParenthesis.java">
+    <entry file="file://$PROJECT_DIR$/LinkedList/src/main/java/MergeTwoLists.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.57939917">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/CalculatePower.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/MergeTwoListsLeet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.69521046">
-          <caret line="60" column="23" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.9141631">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/GenerateNParenthesis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6262425">
+          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#225#233#0" expanded="false" />
+            <element signature="e#698#699#0" expanded="false" />
+            <element signature="e#783#784#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/RemoveElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41749504">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/RemoveDuplicatesSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47713718">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1181" column="22" selection-start-line="1181" selection-start-column="22" selection-end-line="1181" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/DivideTwoIntegers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+          <folding>
+            <element signature="e#1733#1734#0" expanded="false" />
+            <element signature="e#1806#1807#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/src/main/java/MergeKSortedLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1416309">
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/src/test/java/LinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5579399">
+          <caret line="71" column="32" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/src/main/java/SwapNodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="18" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/src/main/java/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12017167">
+          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ConcurrentProgramming/src/main/java/concurrentcollections/ConcurrentCollection.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/ReverseKGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.27896994">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/ReversePairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64377683">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/test/java/array/RotateArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ConcurrentProgramming/src/main/java/concurrentcollections/ConcurrentHashMapUsage2.java">
+    <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/RotateArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32510886">
-          <caret line="26" column="41" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.7081545">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ConcurrentProgramming/src/main/java/tutorials/deadlock/Account.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/PathSum1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10885341">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="28" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ConcurrentProgramming/src/main/java/tutorials/deadlock/Runner.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/PathSum2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.64731497">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ConcurrentProgramming/src/main/java/tutorials/deadlock/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19593614">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ConcurrentProgramming/src/main/java/tutorials/createthread/HelloRunnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4571843">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ConcurrentProgramming/src/main/java/tutorials/createthread/HelloThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19593614">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ConcurrentProgramming/src/main/java/tutorials/createthread/Runnner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10885341">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ConcurrentProgramming/src/main/java/tutorials/synchronization/tutorial1/Demo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12954876">
-          <caret line="18" column="22" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ConcurrentProgramming/src/main/java/tutorials/synchronization/tutorial1/Demo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.82969433">
-          <caret line="45" column="48" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ConcurrentProgramming/src/main/java/Play.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06550218">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ConcurrentProgramming/src/main/java/tutorials/synchronization/Counter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1734104">
+        <state vertical-scroll-proportion="0.0">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ConcurrentProgramming/src/main/java/tutorials/synchronization/TwoSums.java">
+    <entry file="file://$PROJECT_DIR$/Trees/src/main/java/binarytree/HasPathSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4552023">
-          <caret line="21" column="11" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.19313304">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="34" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ConcurrentProgramming/src/main/java/tutorials/synchronization/App.java">
+    <entry file="file://$PROJECT_DIR$/GraphAlgorithm/src/main/java/BreadthFirstSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="0" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.32188842">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ConcurrentProgramming/src/main/java/tutorials/Join.java">
+    <entry file="file://$PROJECT_DIR$/GraphAlgorithm/src/main/java/DepthFirstSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.21459228">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphAlgorithm/src/test/java/DepthFirstSearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57939917">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GraphAlgorithm/src/main/java/GraphNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51502144">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/ValidateBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36480686">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/KthElementBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1502146">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/ZigZagConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07725322">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trees/src/main/java/binarytree/ReverseLevelOrderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1502146">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ConcurrentProgramming/src/main/java/tutorials/SleepMessages.java">
+    <entry file="file://$PROJECT_DIR$/Trees/src/main/java/binarytree/PrintLevelOrderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1517341">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.2360515">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ConcurrentProgramming/src/main/java/tutorials/producerconsumer/Demo1.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state vertical-scroll-proportion="1.1158798">
+          <caret line="105" column="11" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ConcurrentProgramming/src/main/java/tutorials/producerconsumer/Demo2.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/util/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        <state vertical-scroll-proportion="-0.05293276">
+          <caret line="143" column="22" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ConcurrentProgramming/src/main/java/tutorials/semaphores/App.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/ConstructBinaryTreeFromInorderPostorder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ConcurrentProgramming/src/main/java/concurrentcollections/ConcurrentHashMapUsage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3251445">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ConcurrentProgramming/src/main/java/tutorials/semaphores/Connection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1054913">
-          <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/General/src/test/java/MicrosoftTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08064516">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HeapPriorityQueue/src/main/java/MergeKSortedArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.0434783">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.38516405">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PriorityQueueHeap/src/main/java/binaryheap/BinaryHeap.java">
+    <entry file="file://$PROJECT_DIR$/Trees/src/main/java/binarytree/FlattenBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PriorityQueueHeap/src/main/java/binaryheap/MaxHeap.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/FlattenBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54741377">
-          <caret line="48" column="22" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PriorityQueueHeap/src/main/java/binaryheap/MinHeap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="18" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PriorityQueueHeap/src/main/java/priorityqueues/ComparatorVsComparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.080818966">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Trees/src/main/java/binarytree/SymmetricTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11314655">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.40656206">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Trees/src/main/java/binarytree/ZigZagTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11314655">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.67902994">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Trees/src/main/java/binarytree/BinaryTreeViews.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11314655">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebCrawling/src/main/java/DataBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04849138">
+        <state vertical-scroll-proportion="0.06419401">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/ProductArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.72424895">
-          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/General/src/main/java/microsoft/Microsoft.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PriorityQueueHeap/src/main/java/priorityqueues/PQStudents.java">
+    <entry file="file://$PROJECT_DIR$/Trees/src/main/java/binarytree/common/BinaryTreePrinter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+        <state vertical-scroll-proportion="0.21398003">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17167382">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
           <folding>
-            <element signature="e#234#243#0" expanded="false" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PriorityQueueHeap/src/main/java/priorityqueues/Product.java">
+    <entry file="file://$PROJECT_DIR$/Trees/src/main/java/binarytree/BuildTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="20" />
-          <folding>
-            <element signature="e#255#256#0" expanded="false" />
-            <element signature="e#289#290#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PriorityQueueHeap/src/main/java/priorityqueues/KClosest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19396552">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5951359">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PriorityQueueHeap/src/main/java/priorityqueues/FinalScore.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/BinarySearchTreeIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05172414">
-          <caret line="37" column="25" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.1502146">
+          <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1169#1186#0" expanded="false" />
-            <element signature="e#1599#1611#0" expanded="false" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PriorityQueueHeap/src/main/java/priorityqueues/ClosestPoints.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/MinimumDepth.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <caret line="66" column="5" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#290#298#0" expanded="false" />
-            <element signature="e#425#432#0" expanded="false" />
-            <element signature="e#1169#1176#0" expanded="false" />
-            <element signature="e#1921#1922#0" expanded="false" />
-            <element signature="e#1993#1994#0" expanded="false" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1147#1157#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PriorityQueueHeap/src/main/java/priorityqueues/PQ.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15086207">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#361#370#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PriorityQueueHeap/src/test/java/PlayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43103448">
-          <caret line="25" column="21" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="27" />
+        <state vertical-scroll-proportion="-11.875">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PriorityQueueHeap/src/main/java/priorityqueues/Play.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/VerticalOrderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.094827585">
-          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.59227467">
+          <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#330#347#0" expanded="false" />
-            <element signature="e#967#976#0" expanded="false" />
-            <element signature="e#1230#1239#0" expanded="false" />
-            <element signature="e#1870#1879#0" expanded="false" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#478#493#0" expanded="true" />
+            <element signature="e#565#589#0" expanded="true" />
+            <element signature="e#655#673#0" expanded="true" />
+            <element signature="e#967#977#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PriorityQueueHeap/src/main/java/priorityqueues/TestResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15086207">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PriorityQueueHeap/src/main/java/priorityqueues/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.625">
-          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-          <folding>
-            <element signature="e#659#667#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/DepthSum.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/BottomViewBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/TopViewBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/RightSideView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7905983">
+          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
           <folding>
-            <marker date="1447214263000" expanded="true" signature="196:475" placeholder="{...}" />
-            <marker date="1447214263000" expanded="true" signature="560:1247" placeholder="{...}" />
-            <marker date="1447214263000" expanded="true" signature="1296:1951" placeholder="{...}" />
-            <marker date="1447214263000" expanded="false" signature="1423:1438" placeholder="&lt;~&gt;" />
-            <marker date="1447214263000" expanded="true" signature="1447:1943" placeholder="//..." />
+            <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/PostfixReversePolish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="48" column="30" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/NestedInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArraysAndStrings/src/main/java/array/Factors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8491379">
-          <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1768,7 +1980,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.6</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

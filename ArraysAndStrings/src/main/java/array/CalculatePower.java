@@ -25,7 +25,7 @@ public class CalculatePower {
 
     public static double pow2(double a, int b) {
 
-        int x = 1;
+        double x = 1;
         for(int i = 0 ; i < b ; i++) {
             x *= a;
         }
@@ -34,12 +34,11 @@ public class CalculatePower {
     }
 
     /* Function to calculate x raised to the power y, does not work for negative powers */
-    //Time Complexity: O(n)
+    //Time Complexity: O(y)
     //Space Complexity: O(1)
-    public static double power3(double x, int y)
-    {
-        if( y == 0)
-            return 1;
+    public static double power3(double x, int y) {
+        if( y == 1)
+            return x;
         else if (y%2 == 0)
             return power3(x, y/2) * power3(x, y/2);
         else

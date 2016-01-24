@@ -7,6 +7,8 @@ import java.util.Stack;
 
 /**
  * Created by rg029761 on 8/8/15.
+ *
+ * http://javabypatel.blogspot.in/2015/08/construct-binary-tree-from-inorder-and-post-order-traversals.html
  */
 public class BuildTree {
 

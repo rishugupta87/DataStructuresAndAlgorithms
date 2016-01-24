@@ -9,7 +9,7 @@ import util.Node;
 public class HasPathSum {
 
     public static boolean hasPathSum(Node root, int sum) {
-        if (root == null || root.getData() > sum)
+        if (root == null)
             return false;
 
         if (sum - root.getData() == 0 && (root.getLeft() == null && root.getRight() == null))

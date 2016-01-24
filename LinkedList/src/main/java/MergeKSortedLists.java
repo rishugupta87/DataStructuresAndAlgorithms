@@ -12,7 +12,7 @@ public class MergeKSortedLists {
     public Node mergeKLists(List<Node> lists) {
         if(lists.size() == 0)
             return null;
-        PriorityQueue<Node> queue = new PriorityQueue<Node>(11, new ListNodeComparer());
+        PriorityQueue<Node> queue = new PriorityQueue<Node>(11);
         for(Node node: lists) {
             if(node != null)
                 queue.add(node);
@@ -39,10 +39,10 @@ public class MergeKSortedLists {
         return result;
     }
 
-    private class ListNodeComparer implements Comparator<Node> {
-        @Override
-        public int compare(Node o1, Node o2) {
-            return compareTo(o1.getData(), o2.getData());
-        }
-    }
+//    private class ListNodeComparer implements Comparator<Node> {
+//        @Override
+//        public int compare(Node o1, Node o2) {
+//            return compareTo(o1.getData(), o2.getData());
+//        }
+//    }
 }

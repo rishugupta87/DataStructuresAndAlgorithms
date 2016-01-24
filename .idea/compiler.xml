@@ -32,6 +32,8 @@
         <module name="GraphAlgorithm" />
         <module name="HeapPriorityQueue" />
         <module name="Interviews" />
+        <module name="Json" />
+        <module name="LeetCode" />
         <module name="Linkedin" />
         <module name="LinkedList" />
         <module name="Matrix" />
@@ -51,6 +53,8 @@
       <module name="GraphAlgorithm" target="1.5" />
       <module name="HeapPriorityQueue" target="1.5" />
       <module name="Interviews" target="1.5" />
+      <module name="Json" target="1.5" />
+      <module name="LeetCode" target="1.5" />
       <module name="Linkedin" target="1.5" />
       <module name="LinkedList" target="1.5" />
       <module name="Matrix" target="1.5" />

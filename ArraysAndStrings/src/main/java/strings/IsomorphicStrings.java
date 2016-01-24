@@ -49,6 +49,11 @@ public class IsomorphicStrings {
 
     //faster way
     public static boolean check(String s,String t){
+
+        if(s == null || t == null) {
+            return false;
+        }
+
         if(s.length()!=t.length()) return false;
         HashMap<Character,Character> map1=new HashMap<Character, Character>();
         HashMap<Character,Character> map2=new HashMap<Character, Character>();

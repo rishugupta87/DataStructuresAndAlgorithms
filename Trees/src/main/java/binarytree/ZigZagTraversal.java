@@ -18,7 +18,7 @@ public class ZigZagTraversal {
         Stack<Node> currLevel = new Stack();
         Stack<Node> nextLevel = new Stack();
 
-        boolean isRightToLeft = true;
+        boolean isLeftToRight = true;
 
         currLevel.push(root);
 
@@ -26,7 +26,7 @@ public class ZigZagTraversal {
             Node node = currLevel.pop();
             System.out.println(node.getData());
 
-            if(isRightToLeft) {
+            if(isLeftToRight) {
                 if(node.getLeft() != null) {
                     nextLevel.push(node.getLeft());
                 }
@@ -44,7 +44,7 @@ public class ZigZagTraversal {
 
             if(currLevel.isEmpty()) {
                 currLevel = nextLevel;
-                isRightToLeft = false;
+                isLeftToRight = false;
             }
         }
     }

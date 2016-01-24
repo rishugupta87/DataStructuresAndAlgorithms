@@ -19,7 +19,7 @@ public class CalculatePowerTest {
 
     @Test
     public void test3() {
-        System.out.println(CalculatePower.power3(3, 4));
+        System.out.println(CalculatePower.power3(0.5, 6));
     }
 
     @Test

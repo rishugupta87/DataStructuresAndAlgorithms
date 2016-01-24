@@ -15,7 +15,6 @@ public class TwoSumProblem {
     }
 
     public boolean test(int value) {
-
         for(int num : set) {
             if(set.contains(value - num)) {
                 return true;
