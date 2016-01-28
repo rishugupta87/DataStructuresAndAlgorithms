@@ -38,6 +38,15 @@ public class StringPermutations {
         }
     }
 
+    /**
+     * https://www.youtube.com/watch?v=iFafKAUGqrY
+     *
+     * Also Do
+     * https://www.youtube.com/watch?v=wIPcruaQ3Sg
+     *
+     * @param characters
+     * @param position
+     */
     public void findStringPermutations2(char[] characters, int position) {
 
         if(position == characters.length) { //all characters visited

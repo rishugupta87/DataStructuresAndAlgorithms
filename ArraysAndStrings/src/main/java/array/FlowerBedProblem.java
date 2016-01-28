@@ -45,8 +45,11 @@ public class FlowerBedProblem {
 
         int[] array1 = {1,0,0,1,0,0,1,0,0};
         int[] array2 = {1,0,0,0,0,0,1,0,0};
+        int[] array3 = {1,0,0,0,0,0,1,0,1};
+
 
         System.out.println(simpleGetMaxFlowers(array1));
         System.out.println(simpleGetMaxFlowers(array2));
+        System.out.println(simpleGetMaxFlowers(array3));
     }
 }

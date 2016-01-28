@@ -7,7 +7,7 @@ import java.util.PriorityQueue;
 /**
  * Created by rg029761 on 10/12/15.
  */
-public class PQ {
+public class TopKElements {
 
     //http://java67.blogspot.com/2015/07/how-to-use-priorityqueue-in-java-example.html
     public static void findTop4Marks(int[] array) {
