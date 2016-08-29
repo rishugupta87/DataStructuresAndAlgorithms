@@ -15,6 +15,8 @@ public class LinkedList {
         head = new Node(data);
     }
 
+
+
     public void appendAtHead(final int data) {
         if (head == null) {
             return;

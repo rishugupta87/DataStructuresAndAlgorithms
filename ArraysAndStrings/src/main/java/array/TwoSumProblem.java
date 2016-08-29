@@ -27,11 +27,11 @@ public class TwoSumProblem {
 
         TwoSumProblem problem = new TwoSumProblem();
         problem.store(1);
-        problem.store(-2);
+        problem.store(1);
         problem.store(3);
         problem.store(6);
 
-        System.out.println("test1:" + problem.test(4));
+        System.out.println("test1:" + problem.test(2));
         System.out.println("test2:" + problem.test(-1));
         System.out.println("test3:" + problem.test(7));
         System.out.println("test4:" + problem.test(1));

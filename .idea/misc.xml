@@ -32,6 +32,9 @@
         <option value="$PROJECT_DIR$/Linkedin/pom.xml" />
         <option value="$PROJECT_DIR$/Json/pom.xml" />
         <option value="$PROJECT_DIR$/LeetCode/pom.xml" />
+        <option value="$PROJECT_DIR$/ObjectOrientedProgramming/pom.xml" />
+        <option value="$PROJECT_DIR$/InterviewCake/pom.xml" />
+        <option value="$PROJECT_DIR$/CrashCourse/pom.xml" />
       </list>
     </option>
   </component>
@@ -45,7 +48,7 @@
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" assert-keyword="true" jdk-15="true" project-jdk-name="1.6" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

@@ -8,7 +8,7 @@ public class FindElementIn2DArray {
     private static boolean findElement(final int[][] array, int num, int numOfRows , int numofCol) {
 
         int i = 0, j = numofCol - 1;
-        while(i < numOfRows && j > 0) {
+        while(i < numOfRows && j >= 0) {
             if(array[i][j] == num) {
                 return true;
             } else if(num > array[i][j]) {
@@ -31,6 +31,6 @@ public class FindElementIn2DArray {
         int n = array.length;
         int m = array[0].length;
 
-        System.out.println(findElement(array, 27, n, m));
+        System.out.println(findElement(array, 17, n, m));
     }
 }

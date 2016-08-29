@@ -1,12 +1,6 @@
 package priorityqueues;
 
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.PriorityQueue;
-import java.util.Queue;
+import java.util.*;
 
 /**
  * Created by rg029761 on 10/25/15.
@@ -20,6 +14,7 @@ public class Play {
         priorityMap.put("D987", 3);
         priorityMap.put("E2112", 2);
         priorityMap.put("F456", 10);
+        priorityMap.put("f456", 1);
     }
 
     //https://www.youtube.com/watch?v=1mm1I40cniQ
@@ -50,7 +45,14 @@ public class Play {
     //http://stackoverflow.com/questions/683041/java-how-do-i-use-a-priorityqueue
     //http://stackoverflow.com/questions/13346551/sorting-priorityqueue
     public static void play3(List<Product> products) {
-    Queue<Product> queue = new PriorityQueue<Product>(10, new Comparator<Product>() {
+
+    //check for empty too
+
+    if(products.size() == 1) {
+        System.out.println(products.get(0));
+    }
+
+    Queue<Product> queue = new PriorityQueue<Product>(products.size(), new Comparator<Product>() {
             public int compare(Product product1, Product product2) {
                 return priorityMap.get(product1.getProductName()).compareTo(priorityMap.get(product2.getProductName()));
             }
@@ -66,5 +68,18 @@ public class Play {
 
 
         //System.out.println(Arrays.asList(queue.toArray()));
+    }
+
+    //http://stackoverflow.com/questions/683041/java-how-do-i-use-a-priorityqueue
+    //http://stackoverflow.com/questions/13346551/sorting-priorityqueue
+    public static void play4(List<Product> products) {
+
+        Collections.sort(products, new Comparator<Product>() {
+            public int compare(Product product1, Product product2) {
+                return priorityMap.get(product1.getProductName()).compareTo(priorityMap.get(product2.getProductName()));
+            }
+        });
+
+        System.out.println(Arrays.asList(products));
     }
 }

@@ -65,7 +65,7 @@ public class StringToInteger {
     }
 
     public static void main(String args[]) {
-        String s = "9223372036854775809";
+        String s = "35654.3";
         System.out.println(new StringToInteger().myAtoi(s));
     }
 

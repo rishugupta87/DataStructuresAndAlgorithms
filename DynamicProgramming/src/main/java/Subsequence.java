@@ -12,23 +12,17 @@ public class Subsequence {
      */
     public static int findLongestIncreasingSubsequence(final int[] arr) {
         int[] L = new int[arr.length];
-        int max = 0;
         L[0] = 1;
         for(int i = 1 ; i < arr.length; i++) {
-            boolean flag = false;
+            int max = 0;
             for(int j = 0 ; j < i ; j++) {
-              if(arr[j] < arr[i]) {
-                  flag = true; //if any such j exists this flag is true
+              if(arr[j] <= arr[i]) {
                   if(L[j] > max) {
                       max = L[j];
                   }
               }
             }
-            if(flag) {
-                L[i] = 1 + max;
-            } else {
-                L[i] = 1;
-            }
+            L[i] = 1 + max;
         }
 
         Arrays.sort(L);

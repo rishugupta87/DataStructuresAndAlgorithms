@@ -33,8 +33,29 @@ public class TopKElements {
 
     }
 
+    public static int findKthLargestElement(int[] array, int k) {
+        PriorityQueue<Integer> pq = new PriorityQueue<Integer>(k); //uses min heap
+
+        //add first k elements in the pq or min heap
+        for(int i = 0 ; i < k; i++) {
+            pq.add(array[i]);
+        }
+
+        //now iterate over k+1 elements in the pq
+        for(int i = k ; i < array.length; i ++) {
+            if(array[i] > pq.peek()) {
+                //remove top element from pq and replace with array element
+                pq.poll();
+                pq.offer(array[i]);
+            }
+        }
+
+        return pq.peek();
+    }
+
     public static void main(String args[]) {
-        int[] array = {5, 12, 64, 1, 37, 90, 91, 97, 1,10};
+        int[] array = {3,2,1,5,6,4};
         findTop4Marks(array);
+        System.out.println(findKthLargestElement(array, 3));
     }
 }

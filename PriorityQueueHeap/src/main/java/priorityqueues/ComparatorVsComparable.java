@@ -6,7 +6,4 @@ package priorityqueues;
 public class ComparatorVsComparable {
 
     //https://www.youtube.com/watch?v=JSvVsOm4oX0
-
-
-
 }

@@ -31,6 +31,6 @@ public class FirstRepeatingElement {
 
     public static void main(String args[]) {
         String s = "bcccdeeefgggb";
-        repeat(s);
+        System.out.println(repeat(s));
     }
 }

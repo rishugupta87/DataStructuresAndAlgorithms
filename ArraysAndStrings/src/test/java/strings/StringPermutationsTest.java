@@ -28,4 +28,12 @@ public class StringPermutationsTest {
         long endTime = System.currentTimeMillis();
         System.out.println(endTime - startTime);
     }
+
+    @Test
+    public void test3() {
+        String s = "cats";
+        System.out.println(s.substring(0,3));
+        StringPermutations sp = new StringPermutations(s.length());
+        System.out.println(sp.getPermutations(s));
+    }
 }

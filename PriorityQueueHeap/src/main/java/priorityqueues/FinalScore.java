@@ -16,7 +16,7 @@ public class FinalScore {
         if(results == null || results.size() == 0)
             return null;
 
-        HashMap<Integer, PriorityQueue<Integer>> id_scores = new HashMap<Integer, PriorityQueue<Integer>> ();
+            HashMap<Integer, PriorityQueue<Integer>> id_scores = new HashMap<Integer, PriorityQueue<Integer>> ();
 
         for(TestResult res : results) {
             PriorityQueue<Integer> queue = null;

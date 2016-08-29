@@ -1,8 +1,5 @@
 package util.impl;
 
-/**
- * Created by rg029761 on 5/7/15.
- */
 public class HashMap<K, V> {
     //define an initial capacity of 16
     private static final int INITIAL_CAPACITY = 16;

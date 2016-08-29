@@ -33,13 +33,13 @@ public class ConcurrentHashMapUsage {
 
         ConcurrentMap<Integer, String> concurrentHashMap = new ConcurrentHashMap<Integer, String>();
         concurrentHashMap.put(1, "javaMadeSoEasy");
-        System.out.println("concurrentHashMap : "+concurrentHashMap);
+        System.out.println("concurrentHashMap1 : "+concurrentHashMap);
 
         System.out.println("\n putIfAbsent method >>"+ concurrentHashMap.putIfAbsent(1, "ankit"));
-        System.out.println("concurrentHashMap : "+concurrentHashMap);
+        System.out.println("concurrentHashMap2 : "+concurrentHashMap);
 
         System.out.println("\n putIfAbsent method >> "+ concurrentHashMap.putIfAbsent(2, "audi"));
-        System.out.println("concurrentHashMap : "+concurrentHashMap);
+        System.out.println("concurrentHashMap3 : "+concurrentHashMap);
 
     }
 }

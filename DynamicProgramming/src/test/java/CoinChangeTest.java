@@ -5,13 +5,6 @@ import org.junit.Test;
  */
 public class CoinChangeTest {
 
-    @Test
-    public void testCoinChange() {
-        int[] coins = {1,2,3};
-        CoinChange coinChange = new CoinChange(coins, 20);
-        System.out.println(coinChange.getMinNumberOfCoins());
-    }
-
 
     @Test
     public void testCoinChange2() {

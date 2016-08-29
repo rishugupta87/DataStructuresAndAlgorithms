@@ -6,7 +6,11 @@
 
     <groupId>Facebook</groupId>
     <artifactId>facebook</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>../Uber</module>
+    </modules>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>

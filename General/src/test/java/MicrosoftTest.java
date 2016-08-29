@@ -1,4 +1,4 @@
-import microsoft.Microsoft;
+import microsoft.DigitSorted;
 import org.junit.Test;
 
 /**
@@ -8,6 +8,6 @@ public class MicrosoftTest {
 
     @Test
     public void test() {
-        System.out.println(Microsoft.digitSorted(344456, Integer.MAX_VALUE));
+        System.out.println(DigitSorted.digitSorted(344456, Integer.MAX_VALUE));
     }
 }

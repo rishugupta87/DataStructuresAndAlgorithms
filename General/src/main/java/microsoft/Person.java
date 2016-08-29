@@ -7,14 +7,6 @@ public class Person
     public String name;
     public Person[] acquantainces;
 
-    public Person(String name, Person[] acquantainces) {
-        if(name.isEmpty()) {
-            throw new RuntimeException();
-        }
-        this.name = name;
-        this.acquantainces = acquantainces;
-    }
-
     public void setAcquantainces(Person[] acquantainces) {
         this.acquantainces = acquantainces;
     }

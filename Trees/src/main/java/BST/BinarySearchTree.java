@@ -107,6 +107,30 @@ public class BinarySearchTree {
     }
 
     /**
+     * Find node in a binary search tree
+     */
+    public Node find(Node root, int data) {
+        //did not find the node that you are looking for here
+        if(root == null) {
+            return null;
+        }
+
+        if(root.getData() == data) {
+            return root;
+        }
+
+        Node nodeFound = null;
+        if(data < root.getData()) {
+            nodeFound = find(root.getLeft() , data);
+        } else if(data > root.getData()) {
+            nodeFound = find(root.getRight() , data);
+        }
+
+        return nodeFound;
+    }
+
+
+    /**
      * Deleting an element from a BST .
      *
      * Case 1 : when the element to be deleted is a root node
@@ -124,7 +148,7 @@ public class BinarySearchTree {
         } else if(data > root.getData()) {
             return delete(data, root.getRight());
         } else { //if there is a match
-            if(root.getLeft() == null && root.getRight() == null) { //Case 1 : when the element to be deleted is a root node
+            if(root.getLeft() == null && root.getRight() == null) { //Case 1 : when the element to be deleted is a leaf node
                 if(root.getData() < root.getParent().getData()) {
                     root.getParent().setLeft(null);
                 } else {
@@ -146,6 +170,7 @@ public class BinarySearchTree {
                 }
             } else { //Case 3: when the element to be deleted has two children.
                 //replace node to be deleted with the maximum from left subree or min from right subtree
+                //also remove duplicates
                 root.setData(findMax(root.getLeft()));
             }
         }

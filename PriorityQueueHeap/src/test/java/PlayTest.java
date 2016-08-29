@@ -18,7 +18,7 @@ public class PlayTest {
 
     @Test
     public void testArray2() {
-        int[] array = {56,78,10,5,90, 1};
+        int[] array = {1,56,78,10,5,90};
         Play.play2(array);
     }
 
@@ -31,5 +31,17 @@ public class PlayTest {
         products.add(new Product("A787"));
         products.add(new Product("F456"));
         Play.play3(products);
+    }
+
+    @Test
+    public void testObjects2() {
+        List<Product> products = new ArrayList<Product>();
+        products.add(new Product("B3425"));
+        products.add(new Product("E2112"));
+        products.add(new Product("D987"));
+        products.add(new Product("A787"));
+        products.add(new Product("F456"));
+        products.add(new Product("f456"));
+        Play.play4(products);
     }
 }

@@ -70,10 +70,11 @@ public class LinkedListTest {
 
     @Test
     public void testReverse_recursive() {
+        list.appendAtTail(10);
+        list.appendAtTail(20);
         list.appendAtTail(30);
+        list.appendAtTail(40);
         list.appendAtTail(50);
-        list.appendAtTail(80);
-        list.appendAtTail(90);
         printLinkedList(list.getHead());
         Node head = LinkedList.reverseLinkedList_Recursive(list.getHead());
         printLinkedList(head);
