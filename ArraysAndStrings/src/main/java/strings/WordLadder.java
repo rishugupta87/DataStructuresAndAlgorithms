@@ -27,6 +27,7 @@ public class WordLadder {
         if(inputQueue.isEmpty()) {
             inputQueue.add(new Word(start, true));
         }
+
         //add the last word to reach in the dictionary.
         dictionary.add(end);
 

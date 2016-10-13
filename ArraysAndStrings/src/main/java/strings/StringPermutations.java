@@ -74,7 +74,7 @@ public class StringPermutations {
         }
     }
 
-    public Set<String> getPermutations(String inputString) {
+    public static Set<String> getPermutations(String inputString) {
         // base case
         if (inputString.length() <= 1) {
             return new HashSet<String>(Arrays.asList(inputString));
@@ -89,12 +89,30 @@ public class StringPermutations {
         // put the last char in all possible positions for each of the above permutations
         Set<String> permutations = new HashSet<String>();
         for (String permutationOfAllCharsExceptLast : permutationsOfAllCharsExceptLast) {
-            for (int position = 0; position <= allCharsExceptLast.length(); position++) {
-                String permutation = permutationOfAllCharsExceptLast.substring(0, position) + lastChar + permutationOfAllCharsExceptLast.substring(position);
+            for (int i = 0; i <= allCharsExceptLast.length(); i++) {
+                String permutation = permutationOfAllCharsExceptLast.substring(0, i) + lastChar + permutationOfAllCharsExceptLast.substring(i);
                 permutations.add(permutation);
             }
         }
 
         return permutations;
+    }
+
+
+    public static void permutation(String str) {
+        permutation("", str);
+    }
+
+    private static void permutation(String prefix, String str) {
+        int n = str.length();
+        if (n == 0) System.out.println(prefix);
+        else {
+            for (int i = 0; i < n; i++)
+                permutation(prefix + str.charAt(i), str.substring(0, i) + str.substring(i+1, n));
+        }
+    }
+
+    public static void main(String args[]) {
+        StringPermutations.getPermutations("abcd");
     }
 }
