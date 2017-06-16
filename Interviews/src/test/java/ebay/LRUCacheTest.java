@@ -21,6 +21,19 @@ public class LRUCacheTest {
     }
 
     @Test
+    public void test11() {
+        LRUCache cache = new LRUCache(4);
+        cache.put(1,11);
+        cache.put(2,13);
+        cache.put(3,14);
+        cache.put(4,15);
+        cache.put(5,16);
+        System.out.println();
+        //cache.put(5,5); //size reaches 4 here
+    }
+
+
+    @Test
     public void test2() {
         LRUCache cache = new LRUCache(3);
         cache.put(1,11);

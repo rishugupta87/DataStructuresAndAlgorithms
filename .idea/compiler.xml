@@ -38,7 +38,6 @@
         <module name="Linkedin" />
         <module name="LinkedList" />
         <module name="Matrix" />
-        <module name="ObjectOrientedProgramming" />
         <module name="PriorityQueueHeap" />
         <module name="Trees" />
         <module name="Uber" />

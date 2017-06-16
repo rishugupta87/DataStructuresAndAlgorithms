@@ -6,26 +6,24 @@ package uber;
 import java.util.*;
 
 class GroupAnagrams {
-    static List<List<String>> groupAnagrams(String[] input) {
-        Map<String, List<String>> keyToWord = new HashMap<String, List<String>>();
-        List<List<String>> result = new ArrayList<List<String>>();
 
-        for(String s : input) {
-            String originalString = s;
-            char[] charArray = s.toCharArray();
-            Arrays.sort(charArray);
-            String s1 = String.valueOf(charArray);
-            if(!keyToWord.containsKey(s1)) {
-                List<String> list = new ArrayList<String>();
-                list.add(originalString);
-                keyToWord.put(String.valueOf(charArray), list);
-            } else {
-                keyToWord.get(String.valueOf(charArray)).add(originalString);
+    public static List<List<String>> groupAnagrams(final String[] strings) {
+
+        Map<String, List<String>> map = new HashMap<String, List<String>>();
+
+        for(final String s : strings) {
+            char[] chars = s.toCharArray();
+            Arrays.sort(chars);
+            String sortedstring = String.valueOf(chars);
+            if (!map.containsKey(sortedstring)) {
+                map.put(sortedstring, new ArrayList<String>());
             }
+            map.get(sortedstring).add(s);
         }
 
-        for(Map.Entry<String, List<String>> entry: keyToWord.entrySet()) {
-            result.add(entry.getValue());
+        List<List<String>> result = new ArrayList<List<String>>();
+        for(final String s : map.keySet()) {
+            result.add(map.get(s));
         }
 
         return result;

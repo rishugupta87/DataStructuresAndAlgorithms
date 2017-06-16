@@ -8,7 +8,6 @@ import unit2.Node;
 public class LowestCommonAncestor {
 
     public static Node lowestCommonAncestor(final Node root, final Node a, final Node b) {
-
         if (root == null) {
             return null;
         }

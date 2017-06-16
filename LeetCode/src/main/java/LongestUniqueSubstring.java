@@ -66,8 +66,48 @@ public class LongestUniqueSubstring {
         return max;
     }
 
+    public static String findLongestUniqueSubstring(String s) {
+
+        Map<Character, Integer> map = new HashMap<Character, Integer>();
+
+        int i = 0;
+        int j = 1;
+
+        map.put(s.charAt(i), i);
+        String longestString = null;
+        int max = Integer.MIN_VALUE;
+
+        while(i < s.length() && j < s.length()) {
+            if(!map.containsKey(s.charAt(j))) {
+                map.put(s.charAt(j), j);
+                j++;
+            } else {
+                if(s.substring(i, j).length() > max) {
+                    max = s.substring(i, j).length();
+                    longestString = s.substring(i, j);
+                }
+                int prev = map.get(s.charAt(j));
+                if(prev > i) {
+                    map.clear();
+                } else {
+                    map.remove(s.charAt(j));
+                }
+                i = prev+1;
+            }
+        }
+        if(s.substring(i, j).length() > max) {
+            max = s.substring(i, j).length();
+            longestString = s.substring(i, j);
+        }
+        return longestString;
+    }
+
     public static void main(String args[]) {
         String s = "poppoppop";
+        String s1 = "abcbbcadefgh";
+
         System.out.println(new LongestUniqueSubstring().lengthOfLongestSubstring(s));
+        System.out.println(new LongestUniqueSubstring().findLongestUniqueSubstring(s1));
+
     }
 }

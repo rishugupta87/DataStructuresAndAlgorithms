@@ -76,7 +76,7 @@ public class NumberToExcel {
     }
 
     public static void main(String args[]) {
-        System.out.println(NumberToExcel.numberToExcel2(702));
+        System.out.println(NumberToExcel.numberToExcel2(52));
     }
 
 }

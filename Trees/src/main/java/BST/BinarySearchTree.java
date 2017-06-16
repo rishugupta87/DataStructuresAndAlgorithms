@@ -4,6 +4,7 @@ import util.Node;
 
 import java.util.LinkedList;
 import java.util.Queue;
+import java.util.Stack;
 
 /**
  * Created by rg029761 on 5/10/15.
@@ -56,6 +57,54 @@ public class BinarySearchTree {
         System.out.printf("%d,", root.getData());
         preOrderTraversal(root.getLeft());
         preOrderTraversal(root.getRight());
+    }
+
+    /**
+     * root, left., right
+     * @param root
+     */
+    public void preOrderTraversal_Iterative(final Node root) {
+        Node top;
+        if (root == null)
+            return;
+
+        Stack<Node> st = new Stack<Node>();
+        st.push(root);
+
+        /*
+         * Push the root and do the same process as recursive one but in this way:
+         * a) Print the node's data
+         * b) Push its right child
+         * c) Push its left child.
+         * This is done because stack if LIFO so left child is operated first.
+         */
+        while (!st.empty()) {
+            top = st.pop();
+            System.out.print(top.getData() + " ");
+            if (top.getRight() != null)
+                st.push(top.getRight());
+            if (top.getLeft() != null)
+                st.push(top.getLeft());
+        }
+    }
+
+    public void inorderItr(Node root){
+        Stack<Node> stack = new Stack<Node>();
+        Node node = root;
+        while(true){
+            if(node != null){
+                stack.push(node);
+                node = node.getLeft();
+            }
+            else{
+                if(stack.isEmpty()){
+                    break;
+                }
+                node = stack.pop();
+                System.out.println(node.getData());
+                node = node.getRight();
+            }
+        }
     }
 
     /**

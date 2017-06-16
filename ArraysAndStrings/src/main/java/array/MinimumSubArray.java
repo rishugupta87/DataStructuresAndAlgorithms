@@ -11,6 +11,7 @@ public class MinimumSubArray {
         int ansStart = 0;
         int currSum = 0;
         int minLen = arrA.length;
+
         for (int i = 0; i <= arrA.length; i++) {
             while (currSum > x) {
                 currSum = currSum - arrA[start];

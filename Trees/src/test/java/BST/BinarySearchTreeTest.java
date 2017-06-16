@@ -36,8 +36,7 @@ public class BinarySearchTreeTest {
     }
 
     @Test
-         public void testInorderTraversal() {
-
+    public void testInorderTraversal() {
         BinarySearchTree bt = new  BinarySearchTree(30);
         bt.add(20);
         bt.add(15);

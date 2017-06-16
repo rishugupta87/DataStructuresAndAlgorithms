@@ -57,15 +57,45 @@ public class LongestCommonPrefix {
         String pre = strs[0];
         int i = 1;
         while(i < strs.length){
-            while(strs[i].indexOf(pre) != 0)
+            while(strs[i].indexOf(pre) != 0) {
                 pre = pre.substring(0,pre.length()-1);
+            }
             i++;
         }
         return pre;
     }
 
+    public String longestCommonPrefix3(String[] strs) {
+        if(strs==null || strs.length==0){
+            return "";
+        }
+
+        if(strs.length==1)
+            return strs[0];
+
+        int minLen = Integer.MAX_VALUE;
+
+        for(String str: strs){
+            if(str.length() < minLen){
+                minLen = str.length();
+            }
+        }
+
+        for(int i=0; i<minLen; i++){
+            for(int j=0; j<strs.length-1; j++){
+                String s1 = strs[j];
+                String s2 = strs[j+1];
+                if(s1.charAt(i)!=s2.charAt(i)){
+                    return s1.substring(0, i);
+                }
+            }
+        }
+
+        return strs[0].substring(0, minLen);
+    }
+
     public static void main(String args[]) {
-        String[] strs = {"Rishub", "Rish", "dsdd" , "Ript", "Rkl"};
-        System.out.println(new LongestCommonPrefix().longestCommonPrefix2(strs));
+        String[] strs = {"Rishub", "Rishpqrs", "Rishtree" , "Rijk"};
+        System.out.println(new LongestCommonPrefix().longestCommonPrefix3(strs));
     }
 }

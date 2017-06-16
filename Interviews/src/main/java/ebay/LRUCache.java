@@ -4,7 +4,16 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by rg029761 on 8/6/16.
+ * http://algorithmsandme.in/2014/02/least-recently-used-cache/#.VQRI_PmUfA0Created by rg029761 on 8/6/16.
+ *
+ * head of queue is most recently used
+ * tail is least frequently used
+ * add elements from right to left in queue.
+ *
+ 1. If cache has free entry, add the page entry to tail of the queue.
+ 2. If cache hit, override the previous value in the cache.
+ 3. If cache miss and the cache is full, remove the page at front and insert the new page at head of queue.
+ 4. To check hit or miss, use hash table.
  */
 public class LRUCache {
 

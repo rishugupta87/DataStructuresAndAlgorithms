@@ -1,6 +1,7 @@
 package binarytree;
 
 import BST.BinarySearchTree;
+import binarytree.common.BinaryTreePrinter;
 import org.junit.Test;
 import util.Node;
 
@@ -35,9 +36,27 @@ public class BinaryTreeTest {
         bt.add(50);
         bt.add(30);
         System.out.println("Inorder");
+        BinaryTreePrinter.printNode(bt.getRoot());
         bt.inOrderTraversal(bt.getRoot());
         System.out.println();
         System.out.println(bt.findMax(bt.getRoot()));
+    }
+
+    @Test
+    public void testFindHeight() {
+        BinaryTree bt = new  BinaryTree(4);
+        bt.add(5);
+        bt.add(6);
+        bt.add(100);
+        bt.add(20);
+        bt.add(620);
+        bt.add(70);
+        bt.add(50);
+        bt.add(30);
+        System.out.println("Inorder");
+        BinaryTreePrinter.printNode(bt.getRoot());
+
+        System.out.println(BinaryTree.height(bt.getRoot()));
     }
 
 

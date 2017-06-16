@@ -72,9 +72,22 @@ public class VerticalOrderTraversal {
     }
 
 
-    public List<List<Integer>> verticalOrder2(TreeNode root, int hd) {
+    public List<List<Integer>> verticalOrder2(TreeNode root) {
         if(root == null) {
-            return Collections.emptyList();
+            return Collections.EMPTY_LIST;
+        }
+        vot(root, 0);
+
+        List<List<Integer>> result = new ArrayList<List<Integer>>();
+        for(Map.Entry<Integer, List<Integer>> entry : distanceToValueMap.entrySet()) {
+            result.add(entry.getValue());
+        }
+        return result;
+    }
+
+    public void vot(TreeNode root, int hd) {
+        if(root == null) {
+            return;
         }
 
         if(distanceToValueMap.get(hd) == null) {
@@ -83,14 +96,8 @@ public class VerticalOrderTraversal {
             distanceToValueMap.get(hd).add(root.val);
         }
 
-        verticalOrder2(root.left, hd - 1);
-        verticalOrder2(root.right, hd + 1);
-
-        List<List<Integer>> result = new ArrayList<List<Integer>>();
-        for(Map.Entry<Integer, List<Integer>> entry : distanceToValueMap.entrySet()) {
-            result.add(entry.getValue());
-        }
-        return result;
+        vot(root.left, hd - 1);
+        vot(root.right, hd + 1);
     }
 
     public List<List<Integer>> verticalOrder2_multiMapUsage(TreeNode root, int hd) {
@@ -162,7 +169,7 @@ public class VerticalOrderTraversal {
         root.right.left = new TreeNode(6);
         root.right.right = new TreeNode(7);
 
-        System.out.println(Arrays.asList(new VerticalOrderTraversal().verticalOrder2(root, 0)));
+        System.out.println(Arrays.asList(new VerticalOrderTraversal().verticalOrder2(root)));
         //System.out.println(Arrays.asList(new VerticalOrderTraversal().verticalOrder2_multiMapUsage(root, 0)));
         System.out.println(Arrays.asList(new VerticalOrderTraversal().bottomView(root, 0)));
         System.out.println(Arrays.asList(new VerticalOrderTraversal().topView(root, 0)));

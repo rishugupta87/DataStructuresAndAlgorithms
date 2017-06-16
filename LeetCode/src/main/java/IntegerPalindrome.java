@@ -40,7 +40,7 @@ public class IntegerPalindrome {
         return true;
     }
 
-    public boolean isPalindrome_withoutExtraSpace(int x) {
+    public static boolean isPalindrome_withoutExtraSpace(int x) {
 
         if(x < 0 || x == Integer.MIN_VALUE || x == Integer.MAX_VALUE) {
             return false;
@@ -61,11 +61,15 @@ public class IntegerPalindrome {
             if (left != right)
                 return false;
 
-            x = (x % div) / 10;
+            x = (x % div) / 10; //this will strip first and last digit = 45654
             div /= 100;
         }
 
         return true;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(IntegerPalindrome.isPalindrome_withoutExtraSpace(3456543));
     }
 
 }

@@ -17,7 +17,7 @@ public class CalculatePower {
         }
 
         if(b > 1) {
-            return ( a * pow(a, b-1));
+            return a * pow(a, b-1);
         }
 
         return 1/(pow(a, -1 * b));

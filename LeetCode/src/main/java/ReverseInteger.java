@@ -7,10 +7,6 @@ public class ReverseInteger {
 
     static int reverseInteger(int num) {
 
-        if(String.valueOf(num).length() == 0) {
-            return -1;
-        }
-
         if(String.valueOf(num).length() == 1) {
             return num;
         }
@@ -24,11 +20,10 @@ public class ReverseInteger {
         while (num > 0) {
             remainder = num % 10;
             rev = rev*10 + remainder;
+            if(rev < Integer.MIN_VALUE || rev > Integer.MAX_VALUE) {
+                return 0;
+            }
             num = num / 10;
-        }
-
-        if(rev < Integer.MIN_VALUE || rev > Integer.MAX_VALUE) {
-            return 0;
         }
 
         return (int)(rev * sign);
